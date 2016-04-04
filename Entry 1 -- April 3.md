@@ -24,7 +24,7 @@ All that said, I'm overall quite pleassed with the progress I've made. The list 
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
-I feel like the current most pressing issue is that of the incomplete rhyme results from an API. It may not actually be most "pressing" per se, as the architecture is also a deifinite unresolved thing, but it feels most pressing because I've thought about it a lot and don't really know what to do about it.
+I feel like the current most pressing issue is that of the incomplete rhyme results from an API. It may not actually be most "pressing" per se, as the architecture is also a deifinite unresolved thing that needs fairly immediate addressing, but it feels most pressing because I've thought about it a lot and don't really know what to do about it.
 
 **What questions do you have for your critique partners? How can they best help
 you?**
