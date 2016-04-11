@@ -34,6 +34,6 @@ I am looking forward to work session on Wednesday because I want to get a lot of
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
-To this point, I've spent probably about 7 hours on the project. About an hour was spent after Monday's meeting exploring different APIs, and another hour was spent Tuesday on doing rhyming optimizations that I eventually discarded (because I decided with Ben not to worry about the API too much), and another hour was spent on the critique of Josh. That said, I'm submitting this critique early because I don't know exactly when I'll get to do work tonight (and I plan to add hours tonight) and this is due at midnight. So, hours will probably be in the 8-9 range.
+To this point, I've spent probably about 7 hours on the project. I sprained my ankle Saturday and spent time in the hospital both Saturday and Sunday, so I lost almost all of the little time I had this week for work (I was also in the musical down at Pomona). About an hour was spent after Monday's meeting exploring different APIs, and another hour was spent Tuesday on doing rhyming optimizations that I eventually discarded (because I decided with Ben not to worry about the API too much), and another hour was spent on the critique of Josh. That said, I'm submitting this critique early because I don't know exactly when I'll get to do work tonight (and I plan to add hours tonight) and this is due at midnight. So, hours will probably be in the 8-9 range.
 
 
