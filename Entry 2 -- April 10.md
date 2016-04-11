@@ -16,6 +16,8 @@ With these two things in mind, I'm getting really close to my MVP on the project
 
 I'm now probably behind schedule if I'm going off of my plan at the beginning. I'm not super worried because I feel like my next steps are fairly straightforward and I know how I want to get them done, and my time should be better in the next couple of weeks to work on this, but at this point I do have a lot of work to do, especially considering that I have had a couple big rethinks of my project in the last couple weeks and my work still feels distinctly "square one"-y at the moment. So, it's kind of game on for these next two weeks.
 
+**12:18AM EDIT**: I spent a couple hours on the program and can now check any poem against any schema! This is great news and really great progress for the IR. I guess the next step is now syntax, but will really want to show this to the critique group and see what they say! I had to fudge some architecture, so I may want to refactor, but really happy to have functionality right now. This is exciting!
+
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
@@ -36,4 +38,5 @@ team, how did you share the labor?**
 
 To this point, I've spent probably about 7 hours on the project. I sprained my ankle Saturday and spent time in the hospital both Saturday and Sunday, so I lost almost all of the little time I had this week for work (I was also in the musical down at Pomona). About an hour was spent after Monday's meeting exploring different APIs, and another hour was spent Tuesday on doing rhyming optimizations that I eventually discarded (because I decided with Ben not to worry about the API too much), and another hour was spent on the critique of Josh. That said, I'm submitting this critique early because I don't know exactly when I'll get to do work tonight (and I plan to add hours tonight) and this is due at midnight. So, hours will probably be in the 8-9 range.
 
+**12:18AM EDIT**: 9 hours
 
